@@ -1,5 +1,14 @@
 [
   {
+  	"sweet.candy.selfie.filters.snapchat": {
+       "fb_ba": "S3xAqchjZLqpIwQtKnGwqlGQ7bM/tKdj+o5/c1AV9dXp6xyxAjjnoDRdgbolUKRc",
+      "fb_in": "S3xAqchjZLqpIwQtKnGwqm7YkBpS7rYTAx0x/XyNp6IxbJ9XIKd7gO1/BuvToqMu",
+      "fb_re": "S3xAqchjZLqpIwQtKnGwqg3AWRo+XpREfZqxNiAPLjiuZ9UsC0+XZE9bOCDP7OzF",
+      "fb_na": "S3xAqchjZLqpIwQtKnGwqg0/WLaQBFzGR82BTZNBeDc6ICcH2qa+hyPY4EYtL43b",
+
+      "ads_list": ["fb", "am"]
+    },
+
   	"sweet.candy.devil.horn.photo.editor.neon": {
       "am_ba": "rfTGRzgSgM7P13/jJ0C+SQmenYBjUW1AaWzyIefPSCxUjAkZI40UqfEqsWWWpu+Y",
       "am_in": "rfTGRzgSgM7P13/jJ0C+SU5LRKWYJ1pU1DffJZ+NvkiykJqPGx/n5VJzYLfKDoiO",
