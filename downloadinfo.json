@@ -92,6 +92,7 @@
     }
   },{
 "common": {
+	"ads_list": ["am"],
     "disable_sa":true
   }
  }
