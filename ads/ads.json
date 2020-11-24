@@ -1,21 +1,21 @@
 {
   "adsApp": [
     {
-      "icon": "https://raw.githubusercontent.com/datapoli/sweetcandyselfie/master/ads/icon.png",
-      "cover": "https://raw.githubusercontent.com/datapoli/sweetcandyselfie/master/ads/graphic.png",
-      "appName": "Face Emoji Photo Editor",
-      "description": "Smoothen your beauty in selfie pictures",
-      "package": "beauty.picshop.face.emoji.photo.editor",
+      "icon": "https://raw.githubusercontent.com/datapoli/sweetcandyselfie/master/ads/icon2.png",
+      "cover": "https://raw.githubusercontent.com/datapoli/sweetcandyselfie/master/ads/graphic2.png",
+      "appName": "Sweet Snap Live Filter",
+      "description": "Transform yourself into a charming queen in pictures or al look like a cute girl within few seconds.",
+      "package": "beautycam.technology.ltd.sweet.snap.live.filter.snap.cat.face.camera",
       "link": "",
       "actionText": "VISIT APP",
       "type": "app"
     },
     {
-      "icon": "https://raw.githubusercontent.com/datapoli/sweetcandyselfie/master/ads/icon3.png",
-      "cover": "https://raw.githubusercontent.com/datapoli/sweetcandyselfie/master/ads/poster3.jpg",
-      "appName": "Album Cover Creator",
-      "description": "Amazing album art for your music albums or cd covers. Album Cover Creator will surely give a wow factor with this app’s exciting features.",
-      "package": "album.cover.creator",
+      "icon": "https://raw.githubusercontent.com/datapoli/sweetcandyselfie/master/ads/icon.png",
+      "cover": "https://raw.githubusercontent.com/datapoli/sweetcandyselfie/master/ads/graphic.png",
+      "appName": "Face Emoji Photo Editor",
+      "description": "Smoothen your beauty in selfie pictures",
+      "package": "beauty.picshop.face.emoji.photo.editor",
       "link": "",
       "actionText": "VISIT APP",
       "type": "app"
