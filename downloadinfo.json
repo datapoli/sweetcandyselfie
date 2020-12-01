@@ -1,6 +1,14 @@
 [
   {
-  	"sweet.candy.threeD.emoji.face.camera.emoji.head.stickers.unactive": {
+  	"sweet.candy.face.live.camera.photo.filters.emojis.stickers": {
+      "am_ba": "rfTGRzgSgM7P13/jJ0C+SQ6Z7qFe3oUxLF8c2K8bRV9K9vgF17o7QicdW9ehH5xv",
+      "am_in": "rfTGRzgSgM7P13/jJ0C+SS45/xAzMYTnBJq80jt0Yjl7h/ZlFUuUZMVBiapEeUVl",
+      "am_na": "rfTGRzgSgM7P13/jJ0C+Sdsx/iFu5s2yJPkkCTV8cS0LuZhHx0PVxAoLbtS9A86+",
+
+      "ads_list": ["am"]
+    },
+
+  	"sweet.candy.threeD.emoji.face.camera.emoji.head.stickers": {
       "am_ba": "Kvuetg7/Le7GI0HsqqI0nDdcE3NLiiCdNZmDVZBp2Ia68L/0tJvJAARhIbNEoQHk",
       "am_in": "Kvuetg7/Le7GI0HsqqI0nEyajgAJiyEo+78IEgLq4+4YACrJaSf7fXv2Bdx/lQ8l",
       "am_na": "Kvuetg7/Le7GI0HsqqI0nF1Bbz3uhBzevvhkRVoxIjbJPeqn9jv6KzJAAH6TKsEg",
