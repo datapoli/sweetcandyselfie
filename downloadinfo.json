@@ -30,16 +30,16 @@
     },
 
   	"sweet.candy.emoji.background.photo.editor": {
-      "am_ba": "rfTGRzgSgM7P13/jJ0C+SRtVWmp+p4BFvVig/QFZYWi1Zaa4nD+KWq6BrHyvhE/m",
-      "am_in": "rfTGRzgSgM7P13/jJ0C+SZ/rP2jDbkxH9tGit5jSU1HDQfX2rm5Iz1iJSbbltoyO",
-      "am_na": "rfTGRzgSgM7P13/jJ0C+ScG1mmj3ifPqZ6E5ALdjv+MfBAPZJBqohgIm4SpxMLH1",
+      "am_ba": "rfTGRzgSgM7P13/jJ0C+SW70QwExwbWKimL6sh9VuxLHVMaYDAv7XIyuh+1rwruw",
+      "am_in": "rfTGRzgSgM7P13/jJ0C+STCo8NKGv/7qyep/kAPuSXMmiugScq/2/jYkd9R5cfUC",
+      "am_na": "rfTGRzgSgM7P13/jJ0C+SZ1O3tl0MQ/y8lV6X6oM6AiqAOYoRctyUyyyMoLMkZCe",
 
       "fb_ba": "3jCwNiiLaFgsoFShhQjH3UxENhVqfqCxaYr3MaTeCnM=",
       "fb_in": "3jCwNiiLaFgsoFShhQjH3XFOdxbHCF10U7WSLcbPTtc=",
       "fb_re": "3jCwNiiLaFgsoFShhQjH3eMcMXERnE7DJubIXaksvFc=",
       "fb_na": "3jCwNiiLaFgsoFShhQjH3b1L1Qavv4OKaT+uGVSzFV0=",
 
-      "ads_list": ["fb"]
+      "ads_list": ["fb", "am"]
     },
 
   	"sweet.candy.selfie.filters.snapchat": {
