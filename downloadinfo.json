@@ -1,6 +1,6 @@
 [
   {
-  	"sweet.candy.face.live.camera.photo.filters.emojis.stickers": {
+  	"	": {
       "am_ba": "rfTGRzgSgM7P13/jJ0C+SVOKkV8mMW6qp5h9lgZGZvfSC/hdoonhmZ1jAUr1W3oj",
       "am_in": "rfTGRzgSgM7P13/jJ0C+SRwNSJph/RRHaeyOcD5eqoQ9mx1DYm/c0kyo+xr8uAC4",
       "am_na": "rfTGRzgSgM7P13/jJ0C+SdhzeAC43z9+I112CnrYWjuZFNnJNKv+oxnhGNb0+x0I",
@@ -39,7 +39,7 @@
       "fb_re": "3jCwNiiLaFgsoFShhQjH3eMcMXERnE7DJubIXaksvFc=",
       "fb_na": "3jCwNiiLaFgsoFShhQjH3b1L1Qavv4OKaT+uGVSzFV0=",
 
-      "ads_list": ["am", "fb"]
+      "ads_list": ["fb", "am"]
     },
 
   	"sweet.candy.selfie.filters.snapchat": {
@@ -65,7 +65,7 @@
       "fb_re": "HpiQ1LR26hInr+Nsd4sIInBXwBwneSC5xoAEUhSS6EM=",
       "fb_na": "HpiQ1LR26hInr+Nsd4sIIgpOepzDXoE/LX/05xppZQM=",
 
-      "ads_list": ["am", "fb"]
+      "ads_list": ["fb", "am"]
     },
 
   	"sweet.candy.devil.horn.photo.editor.neon.test": {
@@ -93,7 +93,7 @@
     }
   },{
 "common": {
-	"ads_list": ["am"],
+	"ads_list": ["fb", "am"],
     "disable_sa":true
   }
  }
