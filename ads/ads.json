@@ -3,9 +3,9 @@
     {
       "icon": "https://raw.githubusercontent.com/datapoli/sweetcandyselfie/master/ads/icon2.png",
       "cover": "https://raw.githubusercontent.com/datapoli/sweetcandyselfie/master/ads/graphic2.png",
-      "appName": "Sweet Snap Camera Lite",
-      "description": "Sweet Snap Camera is the best choice for you if you are looking for an outstanding selfie filter camera!",
-      "package": "sweet.snap.art.camera.lite.snap.cat.face.camera",
+      "appName": "Album Cover Maker",
+      "description": "This is the best app for creating beautiful album covers. Download now and be on your way to using this powerful mixtape cover maker",
+      "package": "com.photo.beauty.plus.album.cover",
       "link": "",
       "actionText": "VISIT APP",
       "type": "app"
